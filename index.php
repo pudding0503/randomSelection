@@ -16,7 +16,7 @@
 <!DOCTYPE html>
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Demo | Random selection</title>
+<title>Demo | Random Selection</title>
 <head>
 <script id="jquery_172" type="text/javascript" class="library" src="js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript">
@@ -53,7 +53,7 @@
 	</script>
 <style>
 body {
-	background-image: url(photo/bg.jpg);
+	background-image: url(assets/bg.jpg);
 }
 /*Circular*/
 .wrap {
