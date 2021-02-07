@@ -7,7 +7,7 @@
 
 #### 截图
 
-![random-selection](/Users/wuhaoning/Documents/Github/randomSelection/assets/random-selection.jpg)
+![random-selection](assets/random-selection.jpg)
 
 #### Legal
 
