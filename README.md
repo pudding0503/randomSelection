@@ -1,6 +1,7 @@
 # 随机选择.php
 
-![php](https://img.shields.io/badge/php->=5-blue.svg)![build](https://img.shields.io/badge/build-passing-4BC51D.svg?style=flat)
+![php](https://img.shields.io/badge/php->=5-blue.svg)
+![build](https://img.shields.io/badge/build-passing-4BC51D.svg?style=flat)
 
 一个用 PHP 写的随机选择页面。
 
